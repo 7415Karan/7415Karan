@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan pushpad</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Full stack developer (python) from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
